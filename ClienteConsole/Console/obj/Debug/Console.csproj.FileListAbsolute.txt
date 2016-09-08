@@ -1,0 +1,9 @@
+C:\Users\Laboratorio\Desktop\Console\Console\bin\Debug\Console.exe.config
+C:\Users\Laboratorio\Desktop\Console\Console\bin\Debug\Console.exe
+C:\Users\Laboratorio\Desktop\Console\Console\bin\Debug\Console.pdb
+C:\Users\Laboratorio\Desktop\Console\Console\obj\Debug\Console.csprojResolveAssemblyReference.cache
+C:\Users\Laboratorio\Desktop\Console\Console\obj\Debug\Console.exe
+C:\Users\Laboratorio\Desktop\Console\Console\obj\Debug\Console.pdb
+C:\Users\Laboratorio\Desktop\ClienteConsole\Console\bin\Debug\Console.exe.config
+C:\Users\Laboratorio\Desktop\ClienteConsole\Console\obj\Debug\Console.exe
+C:\Users\Laboratorio\Desktop\ClienteConsole\Console\obj\Debug\Console.pdb

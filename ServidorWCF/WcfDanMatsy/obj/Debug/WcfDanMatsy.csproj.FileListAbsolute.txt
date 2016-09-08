@@ -1,0 +1,12 @@
+C:\Users\Laboratorio\Desktop\WcfDanMatsy\WcfDanMatsy\bin\WcfDanMatsy.dll.config
+C:\Users\Laboratorio\Desktop\WcfDanMatsy\WcfDanMatsy\bin\WcfDanMatsy.dll
+C:\Users\Laboratorio\Desktop\WcfDanMatsy\WcfDanMatsy\bin\WcfDanMatsy.pdb
+C:\Users\Laboratorio\Desktop\WcfDanMatsy\WcfDanMatsy\obj\Debug\WcfDanMatsy.csprojResolveAssemblyReference.cache
+C:\Users\Laboratorio\Desktop\WcfDanMatsy\WcfDanMatsy\obj\Debug\WcfDanMatsy.dll
+C:\Users\Laboratorio\Desktop\WcfDanMatsy\WcfDanMatsy\obj\Debug\WcfDanMatsy.pdb
+C:\Users\Laboratorio\Desktop\ServidorWCF\WcfDanMatsy\bin\WcfDanMatsy.dll.config
+C:\Users\Laboratorio\Desktop\ServidorWCF\WcfDanMatsy\bin\WcfDanMatsy.dll
+C:\Users\Laboratorio\Desktop\ServidorWCF\WcfDanMatsy\bin\WcfDanMatsy.pdb
+C:\Users\Laboratorio\Desktop\ServidorWCF\WcfDanMatsy\obj\Debug\WcfDanMatsy.csprojResolveAssemblyReference.cache
+C:\Users\Laboratorio\Desktop\ServidorWCF\WcfDanMatsy\obj\Debug\WcfDanMatsy.dll
+C:\Users\Laboratorio\Desktop\ServidorWCF\WcfDanMatsy\obj\Debug\WcfDanMatsy.pdb
